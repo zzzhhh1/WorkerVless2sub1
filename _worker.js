@@ -8,10 +8,10 @@ let addresses = [
 	'icook.tw:2053#YouTube关注科技共享免费翻墙不迷路，优选域名',
 	'cloudflare.cfgo.cc#优选官方线路',
 	'skk.moe:443#优选官方线路',
-        'icook.hk.8443#优选官方线路',
-        'icook.tw:2096#优选官方线路',
-        'cf.090227.xyz:2087#优选官方线路-CM提供',
-        'cfip.xxxxxxxx.tk:8443#优选官方线路-OTC提供',
+        'icook.hk.443#优选官方线路',
+        'icook.tw:443#优选官方线路',
+        'cf.090227.xyz:443#优选官方线路-CM提供',
+        'cfip.xxxxxxxx.tk:443#优选官方线路-OTC提供',
 ];
 
 // 设置优选地址api接口
