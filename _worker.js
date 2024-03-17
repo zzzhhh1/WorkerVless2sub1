@@ -5,8 +5,13 @@ let mytoken= 'auto';//快速订阅访问入口, 留空则不启动快速订阅
 
 // 设置优选地址，不带端口号默认443，不支持非TLS订阅生成
 let addresses = [
-	'icook.tw:2053#优选域名',
+	'icook.tw:2053#YouTube关注科技共享免费翻墙不迷路，优选域名',
 	'cloudflare.cfgo.cc#优选官方线路',
+	'skk.moe:443#优选官方线路',
+        'icook.hk.8443#优选官方线路',
+        'icook.tw:2096#优选官方线路',
+        'cf.090227.xyz:2087#优选官方线路-CM提供',
+        'cfip.xxxxxxxx.tk:8443#优选官方线路-OTC提供',
 ];
 
 // 设置优选地址api接口
